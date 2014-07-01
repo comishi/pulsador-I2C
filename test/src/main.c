@@ -19,7 +19,7 @@
 // TODO: insert other definitions and declarations here
 
 
-/*			CARTEL DE PRUEBA		*/
+/*			CARTEL DE PRUEBA 2222		*/
 
 int main(void) {
 
