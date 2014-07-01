@@ -18,6 +18,9 @@
 
 // TODO: insert other definitions and declarations here
 
+
+/*			CARTEL DE PRUEBA		*/
+
 int main(void) {
 
 #ifdef __USE_CMSIS
